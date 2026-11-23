@@ -43,7 +43,7 @@ export const skills = [
 export const footer = {
   title: 'Terima kasih sudah mampir.',
   status: 'Terbuka untuk proyek baru',
-  marquee: ['Desain', 'Animasi', 'WebGL', 'React.js', 'Three.js', 'Dibuat dengan semangat'],
+  marquee: ['Desain', 'Animasi', 'WebGL', 'React.js', 'Three.js', 'Portofolio', 'Hey Bajingan'],
 };
 
 export const socials = [
