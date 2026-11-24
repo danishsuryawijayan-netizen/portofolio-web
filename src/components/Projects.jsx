@@ -64,6 +64,16 @@ export default function Projects() {
                     <li key={tag}>{tag}</li>
                   ))}
                 </ul>
+                {project.link && (
+                  <a
+                    className="card-link"
+                    href={project.link}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Buka proyek ↗
+                  </a>
+                )}
               </article>
             </TiltCard>
           </Reveal>
