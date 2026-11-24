@@ -17,13 +17,11 @@ export const projects = [
     desc: 'Website portofolio ini sendiri: galaksi WebGL di hero, animasi saat scroll, dan tata letak yang responsif.',
     tags: ['React.js', 'Three.js', 'GLSL', 'Vite'],
   },
-
   {
     title: 'Animation White Rose',
     year: '2026',
     desc: 'animasi hero website:
 animasi hero yang menunjukan kualitas hd nya.',
-    Link: 'royal-white-rose.bercel.app',
     tags: ['React.js', 'Three.js', 'GLSL', 'Vite', 'WebGL', 'JSON'],
   },
 ];
