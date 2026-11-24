@@ -20,10 +20,11 @@ export const projects = [
 
   {
     title: 'Animation White Rose',
-    year: '2026'
+    year: '2026',
     desc: 'animasi hero website:
-animasi hero yang menunjukan kualitas hd nya'
-    tags: ['React.js', 'Three.js', 'GLSL', 'Vite', 'WebGL', 'JSON']
+animasi hero yang menunjukan kualitas hd nya.',
+    Link: 'royal-white-rose.bercel.app',
+    tags: ['React.js', 'Three.js', 'GLSL', 'Vite', 'WebGL', 'JSON'],
   },
 ];
 
